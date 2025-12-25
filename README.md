@@ -1,0 +1,2 @@
+# Explainable-AI-covid-severity-signature
+Explainable_AI_for_Precision_Medicine_Discovery_Benchmarking_and_Mechanistic_Validation_of_a_Parsimonious_3_Gene_Signature_for_COVID_19_Severity
